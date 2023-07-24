@@ -1,0 +1,19 @@
+{
+  "name": "easy-math-operations",
+  "version": "1.0.0",
+  "description": "do simple math operations",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaxyum/easy-math-operations.git"
+  },
+  "author": "kaxyum",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaxyum/easy-math-operations/issues"
+  },
+  "homepage": "https://github.com/kaxyum/easy-math-operations#readme"
+}
